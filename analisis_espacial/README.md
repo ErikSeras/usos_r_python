@@ -1,3 +1,3 @@
-# Ejemplos de aplicaciones de lenguaje R y Python
+# Ejemplos de análisis espacial
 
-En el presente repositorio se almacenarán ejemplos de uso de R y Python de diferentes tópicos.
+[Ejemplo_001](https://github.com/ErikSeras/usos_r_python/blob/main/analisis_espacial/001_densidad_poblacional.ipynb) (Python en Google Colab): elaboración de un mapa de densidad poblacional por distrito de Nepal del año 2011. Se usó `pandas`, `geopandas` y `matplotlib`.
