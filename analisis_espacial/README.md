@@ -4,4 +4,4 @@
 
 [Ejemplo_002](https://github.com/ErikSeras/usos_r_python/blob/main/analisis_espacial/002_manejar_netCDF.ipynb) (Python en Google Colab): manejo de archivos netCDF, creación de mapa y timelapse. Se usó `numpy`, `pandas`, `netCDF4`, `matplotlib.pyplot`, `mpl_toolkits.basemap`, `PIL`, `patoolib` y `requests`.
 
-[Ejemplo_003](https://github.com/ErikSeras/usos_r_python/blob/main/analisis_espacial/003_sentinel_5p_tropomi.ipynb) (Python en Google Colab): manejo de archivos netCDF que contienen data de Sentinel 5P - TROPOMI.
+[Ejemplo_003](https://github.com/ErikSeras/usos_r_python/blob/main/analisis_espacial/003_sentinel_5p_tropomi.ipynb) (Python en Google Colab): manejo de archivos netCDF que contienen data de Sentinel 5P - TROPOMI. Se usó `netCDF4`, `numpy`, `mpl_toolkits.basemap` y `matplotlib.pyplot`.
